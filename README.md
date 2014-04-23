@@ -1,4 +1,0 @@
-snake
-=====
-
-to start
